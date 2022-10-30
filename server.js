@@ -80,7 +80,7 @@ const server = http.createServer((req, res) => {
         })
         
     } 
-    //Printing not at an even if, if function is true . I will have 
+    //Code runs even if function is true . I will have 
     //to look at it again
     //else {
     //     newFunction();
